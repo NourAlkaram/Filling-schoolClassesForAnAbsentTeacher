@@ -1,0 +1,1 @@
+pyinstaller --onefile --windowed --add-binary "tabula-1.0.5-jar-with-dependencies.jar;./tabula/" main.py
